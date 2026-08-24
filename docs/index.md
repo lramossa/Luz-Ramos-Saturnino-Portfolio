@@ -3,7 +3,7 @@
 > **Engineering is the art of making decisions you can defend.**
 
 **Welcome to my design portfolio.**
-
+This portfolio is intended to display all plan, design and final presentation of projects in this class. 
 
 ---
 
@@ -27,7 +27,6 @@ Each stage builds on the last. Nothing is wasted.
 **What did you design and why?**
 
 **What did you learn?**
----
 
 *MEGR 2156 — Design Projects I Laboratory | UNC Charlotte*
 *Terence J. Fagan, Ph.D. | tjfagan@charlotte.edu | Duke 394*
