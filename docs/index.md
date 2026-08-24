@@ -30,9 +30,7 @@ Each stage builds on the last. Nothing is wasted.
 
 ---
 
-## Every lab entry answers three questions about your design process
-
-
+## Every lab entry answers three questions about the design process
 
 **What did the process require?**.
 
