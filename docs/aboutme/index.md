@@ -1,2 +1,3 @@
 #About Me
-This is how to edit
+Hi! My name is Luz Ramos-Saturnino
+I am a engineering student at UNC Charlotte. Before I got into engineering, I was studying architecture for about a year. While I did enjoy architecture, I felt like there was something more that I wanted to do. So I began doing some more exploring into other majors. Since I was always good at math and seemed to enjoy it, I knew that i wouldn't mind going into a major that relied heavily on math. While looking through a class catalogue at a community college, I noticed that they had an intro to engineering class available. That next semester I dove into the intro to engineering class as well as a CAD class and I loved it. This ultimately led to me continuing engineering. 
