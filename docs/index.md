@@ -3,6 +3,7 @@
 > **Engineering is the art of making decisions you can defend.**
 
 **Welcome to my design portfolio.**
+---
 This portfolio is intended to display all plan, design and final presentation of projects in this class. 
 
 ---
