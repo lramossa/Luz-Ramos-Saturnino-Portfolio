@@ -18,16 +18,6 @@
 **Weeks 12–15: Final Project**
 
 Each stage builds on the last. Nothing is wasted.
-
----
-
-## Machines used this semester
-
-**FDM — Prusa Core One**
-**Laser Cutter**
-**SLA — Formlabs Form 4**
-**SLS — Formlabs Fuse 1+** *(selected projects)*
-
 ---
 
 ## Every lab entry answers three questions about the design process
@@ -37,8 +27,6 @@ Each stage builds on the last. Nothing is wasted.
 **What did you design and why?**
 
 **What did you learn?**
-
-
 ---
 
 *MEGR 2156 — Design Projects I Laboratory | UNC Charlotte*
