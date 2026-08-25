@@ -6,4 +6,4 @@ Orientation-choose printing direction before you begin your design. This impacts
 
 Source used- https://bigrep.com/posts/design-for-additive-manufacturing/
 
-Proper Adhesion- If a printed model prints at a temperature too high, this can lead to bad adhesion. 
+Proper Adhesion- If a printed model cools too quickly, this can lead to bad adhesion. Finding the correct temperature and nozzle can help prevent inadequate adhesion.
