@@ -8,7 +8,7 @@ Source used- https://bigrep.com/posts/design-for-additive-manufacturing/
 
 Proper Adhesion- If a printed model cools too quickly, this can lead to bad adhesion. Finding the correct temperature and nozzle can help prevent inadequate adhesion.
 
-# Finding a design 
+# Download
 Downloaded model from:
 https://www.printables.com/
 
@@ -28,13 +28,40 @@ I decided to go with this print because not only did it fit the requirements but
 prints that I considered choosing:
 <img width="1422" height="767" alt="image" src="https://github.com/user-attachments/assets/97c2e00d-c3c4-400d-95ee-6568c63d7759" />
 Ultimately did not choose this piece, because the height for this print exceeded the 0.25 inches. 
-# Using Prusa
+# Preprocessor
 Using Prusa Slcer, I opened the file and noticed that the print exceeded 2 inches. The original print measured 32.2mm(x direction) by 76.94mm(y dir.) by 2.3mm(z dir). Converting this to inches, I get a print with a dimension of 1.27 by 3.03 by 0.09.
 <img width="1915" height="1198" alt="Screenshot 2026-08-27 131414" src="https://github.com/user-attachments/assets/fc84f253-88b1-46ef-9955-75af6a7fd3d2" />
 Slicer information before scaling:
 <img width="347" height="356" alt="Screenshot 2026-08-27 131420" src="https://github.com/user-attachments/assets/cf069f2f-6fb6-4ded-852b-e74b20f65911" />
+
 I decided to scale the print down just enough for the y direction measurement to be under 2 inches. Once I scaled it down, the print had dimensions of 0.83 in. by 1.986 in. by 0.0594 in. 
 <img width="1917" height="1198" alt="Screenshot 2026-08-27 132123" src="https://github.com/user-attachments/assets/ed9f10fc-14a5-414b-bf35-88efa1edabfc" />
+After scaling down the print, I clicked on "slice down" and I recieved a breakdown of the print time:
+<img width="435" height="315" alt="Screenshot 2026-08-27 132131" src="https://github.com/user-attachments/assets/80898b25-1e76-450e-829d-21dd5cc2918d" />
 
+At this point, we got into small groups and we combined out 4 parts and we exported G-Code. 
 
+<img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/ef6f80da-58f5-4d97-9225-9ebf360af62b" />
 
+Scaling factor for each print:
+
+<img width="960" height="564" alt="Screenshot 2026-08-29 153918" src="https://github.com/user-attachments/assets/76cb820a-a264-4bb3-8665-4c227afd83ba" />
+
+<img width="960" height="564" alt="Screenshot 2026-08-29 153924" src="https://github.com/user-attachments/assets/41ded70f-2c68-4e4b-a6ee-0f7f3d59040b" />
+
+<img width="960" height="564" alt="Screenshot 2026-08-29 153929" src="https://github.com/user-attachments/assets/006cddf7-012d-4b98-bb0b-d0f609f6aceb" />
+
+<img width="960" height="564" alt="Screenshot 2026-08-29 153935" src="https://github.com/user-attachments/assets/38c0ca9a-db16-4ab3-b193-1b6f688d9370" />
+# print
+Group members:
+Derek H.,
+Brendan S.,
+Nathan J.,
+Luz R.
+Before printing, we made sure to change filament to PLA. 
+We then saved our file to the USB drive and headed over to the printing lab. 
+Print right after being removed from the printer. 
+
+<img width="1903" height="2189" alt="IMG_6297" src="https://github.com/user-attachments/assets/6183d775-339c-4db2-97df-942469915d74" />
+
+# Lessons Learned
