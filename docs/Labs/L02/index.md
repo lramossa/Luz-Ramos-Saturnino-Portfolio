@@ -71,4 +71,4 @@ Total Print time: 25 Minutes
 - print orientation matters. While moving all our pieces into PrusaSlicer, some prints would show up sideways and not on a flat surface. Having the prints in a sideways orientation, meant that we would need to include supports.
 - After playing around with the setting under print settings and  reading https://help.prusa3d.com/article/support-material_1698 , I learned that PrusaSlicer is able to automatically add supports in a print. The three supports if offer are Grid, Snug, and Organic. PrusaSlicer also has the option to add supports in manually.
 - Once all the designs were printed and we were removing the prints out of the mat, my piece cracked a little. This is possibly due to the print being on the thin side. If I could go back and change my print, I would change the thickness to the bookmark. This would make the removing process and prevent it from breaking.
-- 
+
